@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/428_mernstack/static/css/main.f855e6bc.css",
+    "main.js": "/428_mernstack/static/js/main.3f7c0316.js",
+    "static/js/592.854c3d13.chunk.js": "/428_mernstack/static/js/592.854c3d13.chunk.js",
+    "static/media/sairam.png": "/428_mernstack/static/media/sairam.e9ffe3f05cfc27b03030.png",
+    "static/media/logo.svg": "/428_mernstack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/428_mernstack/index.html",
+    "main.f855e6bc.css.map": "/428_mernstack/static/css/main.f855e6bc.css.map",
+    "main.3f7c0316.js.map": "/428_mernstack/static/js/main.3f7c0316.js.map",
+    "592.854c3d13.chunk.js.map": "/428_mernstack/static/js/592.854c3d13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3f7c0316.js"
+  ]
+}
