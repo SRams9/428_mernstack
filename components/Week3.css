@@ -1,0 +1,11 @@
+.center {
+    margin: auto;
+    width: 50%;
+  }
+  th,
+  td {
+    text-align-last: center;
+    vertical-align: middle;
+    padding: 0%;
+    font-size: 15px;
+  }
