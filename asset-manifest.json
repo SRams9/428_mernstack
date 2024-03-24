@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ashwinipatel/static/css/main.7d3a5480.css",
-    "main.js": "/Ashwinipatel/static/js/main.1b26706d.js",
-    "static/js/592.d2195fd9.chunk.js": "/Ashwinipatel/static/js/592.d2195fd9.chunk.js",
-    "index.html": "/Ashwinipatel/index.html",
-    "main.7d3a5480.css.map": "/Ashwinipatel/static/css/main.7d3a5480.css.map",
-    "main.1b26706d.js.map": "/Ashwinipatel/static/js/main.1b26706d.js.map",
-    "592.d2195fd9.chunk.js.map": "/Ashwinipatel/static/js/592.d2195fd9.chunk.js.map"
+    "main.css": "/428_mernstack/static/css/main.7d3a5480.css",
+    "main.js": "/428_mernstack/static/js/main.846725f5.js",
+    "static/js/592.d2195fd9.chunk.js": "/428_mernstack/static/js/592.d2195fd9.chunk.js",
+    "index.html": "/428_mernstack/index.html",
+    "main.7d3a5480.css.map": "/428_mernstack/static/css/main.7d3a5480.css.map",
+    "main.846725f5.js.map": "/428_mernstack/static/js/main.846725f5.js.map",
+    "592.d2195fd9.chunk.js.map": "/428_mernstack/static/js/592.d2195fd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d3a5480.css",
-    "static/js/main.1b26706d.js"
+    "static/js/main.846725f5.js"
   ]
 }
